@@ -1,8 +1,8 @@
 # AlexaSilenzio.ps1
-# Mantiene viva la connessione Bluetooth con Alexa
-# Riproduce 1 secondo di silenzio ogni 10 minuti
+# Keeps the Bluetooth connection with Alexa alive
+# Plays 1 second of silence every 10 minutes
 
-# Preparazione file WAV di silenzio
+# Preparation of silent WAV file
 # The file will be saved in USER
 $silencePath = "$env:USERPROFILE\silenzio.wav"
 if (-not (Test-Path $silencePath)) {
