@@ -32,6 +32,11 @@ without generating any audible sound.
 1. **Clone or download** this repository.
 2. Place `AlexaKiller.ps1` and `AlexaKiller.vbs` in the **same folder** (e.g. `C:\Tools\AlexaKiller`).
 
+## Quick Start
+
+1. Run .vbs file
+2. enjoy
+
 ## Uninstall
 
 End any running instance via Task Manager (wscript.exe if launched through VBS).
