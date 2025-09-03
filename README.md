@@ -39,7 +39,7 @@ without generating any audible sound.
 
 ## Uninstall
 
-End any running instance via Task Manager (wscript.exe if launched through VBS).
+End any running instance via Task Manager (powershell.exe if launched through VBS).
 
 Remove the scheduled task or Startup shortcut.
 
