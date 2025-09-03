@@ -43,4 +43,4 @@ End any running instance via Task Manager (powershell.exe if launched through VB
 
 Remove the scheduled task or Startup shortcut.
 
-Delete the app folder. The script also creates silenzio.wav in your user folder – you can remove it.
+Delete the app folder. The script also creates silenzio.wav in your USER folder – you can remove it.
